@@ -15,9 +15,6 @@
 </p>
 
 ---
-
-## 🎬 Animated Intro
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFFF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+%2B+NextJS+Developer;Clean+UI/UX+Lover;Always+Learning+New+Things">
 </p>
