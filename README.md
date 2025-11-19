@@ -1,32 +1,86 @@
-<h1 align="center">Hi 👋 I'm  Hussain</h1>
+<h1 align="center">Hi 👋 I'm Hussain</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hussain-basha0/">
+  <a href="https://www.linkedin.com/in/hussain-basha0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://incandescent-douhua-e989db.netlify.app/">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
+  <a href="https://incandescent-douhua-e989db.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hussainbashaa&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+## 🎬 Animated Intro
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFFF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+%2B+NextJS+Developer;Clean+UI/UX+Lover;Always+Learning+New+Things">
 </p>
 
 ---
 
 ## 💻 About Me :
 
-I am a Full Stack Developer, tech enthusiast and passionate learner.
+I’m a Full Stack Developer who vibes with modern UI, clean code, and smooth workflows.
 
-- 🔭 I’m working on building cool web apps  
-- 🌱 Learning & exploring new technologies  
-- 🚀 Sharing knowledge through projects and content  
+- 🔭 Currently working on MERN & Next.js apps  
+- 🌱 Learning backend architecture & cloud  
+- 🧠 Love solving problems & building real projects  
+- 🚀 Always improving, always shipping  
+- 🎯 Goal: Become a Next.js + Cloud beast  
 
 ---
 
-## 🔥 My Stats :
+## 🌟 Featured Projects
+
+### 🔹 **E-Commerce Web App (MERN)**
+🛒 Full shopping flow, cart system, payments  
+🔗 *Add your link here*
+
+### 🔹 **Portfolio Website**
+🎨 Modern UI with animations  
+🔗 https://incandescent-douhua-e989db.netlify.app/
+
+### 🔹 **Full Stack Blog App**
+✍️ Create, edit, delete posts  
+🔗 *Add your link here*
+
+---
+
+## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hussainbashaa&show_icons=true&theme=tokyonight" alt="Github Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussainbashaa&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hussainbashaa&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussainbashaa&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## ⚡ Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hussainbashaa&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🧊 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hussainbashaa&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Snake Animation (Auto Updating)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hussainbashaa/Hussainbashaa/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -34,37 +88,21 @@ I am a Full Stack Developer, tech enthusiast and passionate learner.
 ## 🛠️ Languages & Tools :
 
 <p align="left">
-
- <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-
-  <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-
-  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-
-  <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-
-  <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
-
-  <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-
-  <!-- Express -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-
-  <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-
-  <!-- MySQL / SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-
-  <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-
-  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </p>
+
+---
+
+## ⚡ Quick Fun Fact  
+I don’t copy code…  
+I **rebuild it better** 😎
