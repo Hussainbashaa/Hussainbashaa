@@ -40,7 +40,7 @@ I’m a Full Stack Developer who vibes with modern UI, clean code, and smooth wo
 
 ### 🔹 **E-Commerce Web App (MERN)**
 🛒 Full shopping flow, cart system, payments  
-🔗 *Add your link here*
+
 
 ### 🔹 **Portfolio Website**
 🎨 Modern UI with animations  
@@ -48,7 +48,7 @@ I’m a Full Stack Developer who vibes with modern UI, clean code, and smooth wo
 
 ### 🔹 **Full Stack Blog App**
 ✍️ Create, edit, delete posts  
-🔗 *Add your link here*
+
 
 ---
 
@@ -60,13 +60,6 @@ I’m a Full Stack Developer who vibes with modern UI, clean code, and smooth wo
 </p>
 
 ---
-
-## ⚡ Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hussainbashaa&theme=tokyonight" height="170"/>
-</p>
-
 ---
 
 ## 🧊 GitHub Contribution Graph
