@@ -20,7 +20,7 @@
 
 ---
 
-## 🌙 About Me
+##  About Me
 
 I’m a Full Stack Developer who vibes with **neon UIs, dark themes, clean code**, and smooth workflows.
 
@@ -28,11 +28,11 @@ I’m a Full Stack Developer who vibes with **neon UIs, dark themes, clean code*
 - 🌱 Learning backend architecture + cloud  
 - 💡 Obsessed with animations + UI minimalism  
 - 🚀 Always experimenting, always shipping  
-- 🎯 Goal: Become a Next.js + Cloud wizard
+
 
 ---
 
-## 🌌 Featured Projects
+## Featured Projects
 
 ### 🔹 **E-Commerce Web App (MERN)**
 🛒 Full shopping flow, cart system, payments  
@@ -62,7 +62,7 @@ I’m a Full Stack Developer who vibes with **neon UIs, dark themes, clean code*
 
 ---
 
-# 🧊 Night Sky Contribution Graph
+#  Night Sky Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hussainbashaa&theme=tokyo-night" />
@@ -70,7 +70,7 @@ I’m a Full Stack Developer who vibes with **neon UIs, dark themes, clean code*
 
 ---
 
-# 🐍 Night Mode Snake Animation
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Hussainbashaa/Hussainbashaa/output/github-snake.svg" />
