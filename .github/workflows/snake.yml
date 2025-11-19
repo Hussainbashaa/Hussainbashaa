@@ -19,7 +19,7 @@ jobs:
           github_user_name: Hussainbashaa
           outputs: dist/github-snake.svg
 
-      - name: Deploy Snake
+      - name: Upload Snake to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
