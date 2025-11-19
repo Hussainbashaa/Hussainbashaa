@@ -80,7 +80,8 @@ I’m a Full Stack Developer who vibes with modern UI, clean code, and smooth wo
 ## 🐍 Snake Animation (Auto Updating)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hussainbashaa/Hussainbashaa/output/github-snake.svg" />
+ <img src="https://raw.githubusercontent.com/Hussainbashaa/Hussainbashaa/output/github-snake.svg" />
+
 
 </p>
 
