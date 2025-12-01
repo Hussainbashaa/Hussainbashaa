@@ -22,11 +22,22 @@
 
 ---
 
-## 📊 GitHub Stats (100% Working)
+## 📊 GitHub Stats 
+<!-- GitHub Stats (mirror + cache; fallback badges included) -->
 <p align="center">
-  <img src="https://github-readme-stats-phi-eight-28.vercel.app/api?username=Hussainbashaa&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats-phi-eight-28.vercel.app/api/top-langs/?username=Hussainbashaa&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <!-- primary stats (mirror with cache) -->
+  <img src="https://github-readme-stats-phi-eight-28.vercel.app/api?username=Hussainbashaa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" height="150" alt="GitHub stats"/>
+
+  <!-- top langs (mirror with cache) -->
+  <img src="https://github-readme-stats-phi-eight-28.vercel.app/api/top-langs/?username=Hussainbashaa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" height="150" alt="Top languages"/>
 </p>
+
+<!-- fallback badges (shows if stats images fail) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-@Hussainbashaa-8B5CF6?style=for-the-badge&logo=github" alt="github"/>
+  <img src="https://img.shields.io/badge/Repos-Check%20Profile-38BDF8?style=for-the-badge" alt="repos"/>
+</p>
+
 
 ---
 
