@@ -35,7 +35,8 @@ I’m a Full Stack Developer who vibes with **neon UIs, dark themes, clean code*
 ## Featured Projects
 
 ### 🔹 **E-Commerce Web App (MERN)**
-🛒 Full shopping flow, cart system, payments  
+🛒 Full shopping flow, cart system, payments 
+  🔗 https://e-commerce-website-alpha-snowy.vercel.app/
 
 ### 🔹 **Portfolio Website**
 ✨ Modern UI, smooth animations  
